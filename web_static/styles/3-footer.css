@@ -1,5 +1,5 @@
 footer {
-	color: white;
+	background-color: white;
 	height: 60px;
 	display: flex;
 	justify-content: center;
@@ -8,16 +8,4 @@ footer {
 	bottom: 0;
 	width: 100%;
 	border-top: 1px solid #CCCCCC;
-}
-
-.footer-content {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100%;
-}
-
-.footer-text {
-	font-size: 18px;
-	color: #484848;
 }
